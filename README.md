@@ -4,7 +4,6 @@ Class: Getting and cleaning data in R, Coursera\
 Class link: https://www.coursera.org/learn/data-cleaning/home/welcome
 Github link: https://github.com/kavitadrake/getclean/
 
-
 This assignment resulted in four files:
 --README.md - this document
 --CodeBook.md - a document which describes the various fields
